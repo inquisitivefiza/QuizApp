@@ -1,5 +1,6 @@
 package com.example.quizapplication.component
 
+import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 object Dimens {
@@ -14,5 +15,12 @@ object Dimens {
 
     val MediumIconSize=40.dp
 
-    val SmallSpace
+    val SmallSpacerHeight=8.dp
+    val MediumSpacerHeight=18.dp
+
+    val LargeCornerRadius=50.dp
+    val ExtraLargeCornerRadius=50.dp
+
+    val MediumBoxHeight=60.dp
+
 }
