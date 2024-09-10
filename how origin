@@ -1,0 +1,82 @@
+[33mcommit aa4fec068de6b9300742d826ea857889a8612a3d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 97bb88c 66781a6
+Author: Falak Khan <150942672+curiousfalak@users.noreply.github.com>
+Date:   Tue Sep 10 20:28:11 2024 +0530
+
+    Merge pull request #3 from inquisitivefiza/main
+    
+    Main
+
+[33mcommit 66781a6fb59cdef1a84d603f99578335d9f5ffc0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: falak <falakkhan3dec004@gmail.com>
+Date:   Tue Sep 10 20:21:57 2024 +0530
+
+    good
+
+[33mcommit 09ce02277bf80ca2cb479862ffd5b8c0babbf407[m
+Merge: 01b34f6 75e5be0
+Author: falak <falakkhan3dec004@gmail.com>
+Date:   Tue Sep 10 19:28:51 2024 +0530
+
+    good
+
+[33mcommit 97bb88c34bf0075415bb6948f291807a7a9113a3[m
+Merge: 01b34f6 75e5be0
+Author: inquisitivefiza <150943143+inquisitivefiza@users.noreply.github.com>
+Date:   Tue Sep 10 19:20:27 2024 +0530
+
+    Merge pull request #2 from inquisitivefiza/main
+    
+    Main
+
+[33mcommit 75e5be0e59a32e3bb15a9dc844b7b20b164e7641[m
+Merge: f378f0f 4458a40
+Author: fiza <khanfiza3dec004@gmail.com>
+Date:   Tue Sep 10 01:26:50 2024 +0530
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 01b34f6756804b37032d5102d93890ca9982b13a[m
+Merge: 9d285ff 4458a40
+Author: inquisitivefiza <150943143+inquisitivefiza@users.noreply.github.com>
+Date:   Tue Sep 10 01:25:45 2024 +0530
+
+    Merge pull request #1 from inquisitivefiza/main
+    
+    main
+
+[33mcommit f378f0f3c29704691dc1fdcc7e3a9371f64782cf[m
+Author: fiza <khanfiza3dec004@gmail.com>
+Date:   Tue Sep 10 01:19:49 2024 +0530
+
+    QUIZ APP
+
+[33mcommit e10249d08f6217d8c0b8aac4f52a8700ee377dfd[m
+Author: fiza <khanfiza3dec004@gmail.com>
+Date:   Tue Sep 10 00:57:09 2024 +0530
+
+    QUIZ APP
+
+[33mcommit 4458a404ede44c35957a891dbed19e805fc8854e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: falak <falakkhan3dec004@gmail.com>
+Date:   Tue Sep 10 00:45:57 2024 +0530
+
+    Your commit message
+
+[33mcommit 9d285ffc3b9dcf939401c53ca6c1d5429ed5c299[m
+Author: fiza <khanfiza3dec004@gmail.com>
+Date:   Tue Sep 10 00:08:38 2024 +0530
+
+    Initial commit
+
+[33mcommit 1040dab421d9c89ae2f08d4cc3bf0c73f80eeb90[m
+Author: fiza <khanfiza3dec004@gmail.com>
+Date:   Mon Sep 9 23:59:10 2024 +0530
+
+    QUIZ APP
+
+[33mcommit ff7d7d3b3d9faf4890ddfc564a8a9497c0d09a71[m
+Author: fiza <khanfiza3dec004@gmail.com>
+Date:   Mon Sep 9 23:59:03 2024 +0530
+
+    QUIZ APP
