@@ -1,4 +1,4 @@
-package com.example.quizapplication.component
+package com.example.quizapplication.presentation.home.component
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -15,6 +15,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import com.example.quizapplication.R
+import com.example.quizapplication.util.Dimens
 
 fun HomeHeader(){
     Box(
@@ -24,8 +25,8 @@ fun HomeHeader(){
             .background(
                 color=colorResource(id= R.color.dark_slate_blue),
                 shape= RoundedCornerShape(
-                    bottomStart=Dimens.ExtraLargeCornerRadius,
-                    bottomEnd=Dimens.ExtraLargeCornerRadius
+                    bottomStart= Dimens.ExtraLargeCornerRadius,
+                    bottomEnd= Dimens.ExtraLargeCornerRadius
                 ),
             )
     )
@@ -33,7 +34,7 @@ fun HomeHeader(){
         Row(
             modifier=Modifier
                 .fillMaxWidth()
-                .padding(top=Dimens.LargePadding),
+                .padding(top= Dimens.LargePadding),
             horizontalArrangement= Arrangement.SpaceBetween,
             verticalAlignment= Alignment.CenterVertically,
             )

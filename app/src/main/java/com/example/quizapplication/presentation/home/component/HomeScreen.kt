@@ -1,12 +1,15 @@
-package com.example.quizapplication.component
+package com.example.quizapplication.presentation.home.component
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import com.example.quizapplication.util.Dimens.MediumSpacerHeight
+import com.example.quizapplication.util.Dimens.SmallSpacerHeight
 
 @Composable
 fun HomeScreen(){
@@ -31,5 +34,5 @@ fun HomeScreen(){
 
 
     }
-    )
+
 }
