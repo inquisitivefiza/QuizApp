@@ -8,11 +8,15 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
+import com.example.quizapplication.presentation.home.StateHomeScreen
 import com.example.quizapplication.util.Dimens.MediumSpacerHeight
 import com.example.quizapplication.util.Dimens.SmallSpacerHeight
 
 @Composable
-fun HomeScreen(){
+fun HomeScreen(
+    state: StateHomeScreen
+){
     Column(
         modifier= Modifier
             .fillMaxSize()
@@ -35,4 +39,9 @@ fun HomeScreen(){
 
     }
 
+}
+@Preview
+@Composable
+fun PrevHome(){
+    HomeScreen(state= StateHomeScreen())
 }
