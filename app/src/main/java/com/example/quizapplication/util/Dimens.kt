@@ -1,4 +1,4 @@
-package com.example.quizapplication.component
+package com.example.quizapplication.util
 
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
